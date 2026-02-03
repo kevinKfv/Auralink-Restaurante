@@ -1,0 +1,82 @@
+{
+  "products": {
+    "p1": {
+      "id": "p1",
+      "name": "Caesar Salad",
+      "image": "https://images.unsplash.com/photo-1546793665-c74683f339c1?w=400&h=300&fit=crop",
+      "thumbnail": "https://images.unsplash.com/photo-1546793665-c74683f339c1?w=200&h=150&fit=crop"
+    },
+    "p2": {
+      "id": "p2",
+      "name": "Bruschetta",
+      "image": "https://images.unsplash.com/photo-1572695157366-5e585ab2b69f?w=400&h=300&fit=crop",
+      "thumbnail": "https://images.unsplash.com/photo-1572695157366-5e585ab2b69f?w=200&h=150&fit=crop"
+    },
+    "p3": {
+      "id": "p3",
+      "name": "Grilled Salmon",
+      "image": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?w=400&h=300&fit=crop",
+      "thumbnail": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?w=200&h=150&fit=crop"
+    },
+    "p4": {
+      "id": "p4",
+      "name": "Ribeye Steak",
+      "image": "https://images.unsplash.com/photo-1558030006-450675393462?w=400&h=300&fit=crop",
+      "thumbnail": "https://images.unsplash.com/photo-1558030006-450675393462?w=200&h=150&fit=crop"
+    },
+    "p5": {
+      "id": "p5",
+      "name": "Chicken Alfredo",
+      "image": "https://images.unsplash.com/photo-1645112411341-6c4fd023714a?w=400&h=300&fit=crop",
+      "thumbnail": "https://images.unsplash.com/photo-1645112411341-6c4fd023714a?w=200&h=150&fit=crop"
+    },
+    "p6": {
+      "id": "p6",
+      "name": "Tiramisu",
+      "image": "https://images.unsplash.com/photo-1571877227200-a0d98ea607e9?w=400&h=300&fit=crop",
+      "thumbnail": "https://images.unsplash.com/photo-1571877227200-a0d98ea607e9?w=200&h=150&fit=crop"
+    },
+    "p7": {
+      "id": "p7",
+      "name": "Chocolate Lava Cake",
+      "image": "https://images.unsplash.com/photo-1624353365286-3f8d62daad51?w=400&h=300&fit=crop",
+      "thumbnail": "https://images.unsplash.com/photo-1624353365286-3f8d62daad51?w=200&h=150&fit=crop"
+    },
+    "p8": {
+      "id": "p8",
+      "name": "Coca Cola",
+      "image": "https://images.unsplash.com/photo-1554866585-cd94860890b7?w=400&h=300&fit=crop",
+      "thumbnail": "https://images.unsplash.com/photo-1554866585-cd94860890b7?w=200&h=150&fit=crop"
+    },
+    "p9": {
+      "id": "p9",
+      "name": "Fresh Orange Juice",
+      "image": "https://images.unsplash.com/photo-1600271886742-f049cd451bba?w=400&h=300&fit=crop",
+      "thumbnail": "https://images.unsplash.com/photo-1600271886742-f049cd451bba?w=200&h=150&fit=crop"
+    },
+    "p10": {
+      "id": "p10",
+      "name": "Mojito",
+      "image": "https://images.unsplash.com/photo-1551538827-9c037cb4f32a?w=400&h=300&fit=crop",
+      "thumbnail": "https://images.unsplash.com/photo-1551538827-9c037cb4f32a?w=200&h=150&fit=crop"
+    },
+    "p11": {
+      "id": "p11",
+      "name": "Margarita",
+      "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?w=400&h=300&fit=crop",
+      "thumbnail": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?w=200&h=150&fit=crop"
+    },
+    "p12": {
+      "id": "p12",
+      "name": "Margherita Pizza",
+      "image": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?w=400&h=300&fit=crop",
+      "thumbnail": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?w=200&h=150&fit=crop"
+    },
+    "p13": {
+      "id": "p13",
+      "name": "Pepperoni Pizza",
+      "image": "https://images.unsplash.com/photo-1628840042765-356cda07504e?w=400&h=300&fit=crop",
+      "thumbnail": "https://images.unsplash.com/photo-1628840042765-356cda07504e?w=200&h=150&fit=crop"
+    }
+  }
+}
